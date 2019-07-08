@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Conor Garity's blog
 
-I'm glad you are here. I plan to talk about ...
+I talk about many fun things.
